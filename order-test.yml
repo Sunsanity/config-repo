@@ -15,7 +15,7 @@ spring:
     host: 192.168.30.77
     port: 6379
 env:
-  test222w333ddd
+  test222w333dddwwww
 girl:
   name: lili
   age: 25
